@@ -13,7 +13,7 @@ projet sio2d SI7
   - Git, TDD, Front/Back End
   - API Rest (Java ou PHP)
   - OPS, BDD serveurs, Conteneurs, CVCD
-  - Tests d'intégration: Jenkins
+  - Tests d'intégration: Gitlab
 
 ## Accès BDD
 Pour accéder a la base de donnée, script dans /images.
